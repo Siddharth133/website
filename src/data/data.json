@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "KISMAT AUTO INDUSTRY",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "At KISMAT AUTO INDUSTRY, we are dedicated to providing high-quality auto parts to meet the diverse needs of our customers. Based in the heart of Rajkot, Gujarat, we specialize in the manufacturing of a wide range of components, including banjo bolts, hub pins, hydraulic nuts, nipples, and more. With years of experience in the auto parts industry, we pride ourselves on our commitment to excellence, innovation, and customer satisfaction. Our state-of-the-art manufacturing facilities are equipped with the latest technology, allowing us to produce reliable and durable products that meet industry standards. Our team of skilled professionals is passionate about delivering top-notch solutions and ensuring that our clients receive the best service possible.",
+    "Why": [
+      "Quality Assurance",
+      "Experienced Team",
+      "Custom Solutions"
+    ],
+    "Why2": [
+      "Competitive Pricing",
+      "Timely Delivery",
+      "Customer-Centric Approach"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Hub Pin",
+      "largeImage": "img/ape-hub-pin-1807409.jpg",
+      "smallImage": "img/ape-hub-pin-1807409.jpg"
+    },
+    {
+      "title": "Banzo Bolt",
+      "largeImage": "img/banzo-bolt-1807407.jpg",
+      "smallImage": "img/banzo-bolt-1807407.jpg"
+    },
+    {
+      "title": "Engine Stud",
+      "largeImage": "img/engine_stud.png",
+      "smallImage": "img/engine_stud.png"
+    },
+    {
+      "title": "Hydraulic Nut",
+      "largeImage": "img/hydraulic-nut-1807511.jpg",
+      "smallImage": "img/hydraulic-nut-1807511.jpg"
+    },
+    {
+      "title": "Hydraulic Nipple",
+      "largeImage": "img/hydraulik-nipple-1807403-removebg-preview.png",
+      "smallImage": "img/hydraulik-nipple-1807403-removebg-preview.png"
+    },
+    {
+      "title": "Bearing",
+      "largeImage": "img/nonferrous-bearing-1807425.jpg",
+      "smallImage": "img/nonferrous-bearing-1807425.jpg"
+    },
+    {
+      "title": "Manifold",
+      "largeImage": "img/manifold.png",
+      "smallImage": "img/manifold.png"
+    },
+    {
+      "title": "Cylinder Head Cover",
+      "largeImage": "img/Cylinder_head_cover.png",
+      "smallImage": "img/Cylinder_head_cover.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "New Nehrunagar 9 Corner, Near Patel Pan, 80 Feet Road, Kothariya Main Road, Rajkot, Gujarat, India",
+    "phone": "+91 9879911286",
+    "email": "kismatautoind@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
