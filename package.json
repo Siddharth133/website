@@ -1,5 +1,6 @@
 {
-  "name": "landingpage-react-template",
+  "homepage": "https://Siddharth133.github.io/website",
+  "name": "Website for Industry",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -13,6 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
