@@ -1,7 +1,7 @@
 import { useState } from "react";
 // import emailjs from "emailjs-com";
 import React from "react";
-
+import { VisitorCounter } from "./visitor_counter";
 const initialState = {
   name: "",
   email: "",
@@ -139,6 +139,10 @@ export const Contact = (props) => {
           <div className="col-md-12">
             <div className="row">
               <div className="social">
+                <div className="text-center">
+                <VisitorCounter/>
+
+                </div>
                 <ul>
                   {/* <li>
                     <a href={props.data ? props.data.facebook : "/"}>
