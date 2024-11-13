@@ -18,11 +18,6 @@
   },
   "Gallery": [
     {
-      "title": "Hub Pin",
-      "largeImage": "img/ape-hub-pin-1807409.jpg",
-      "smallImage": "img/ape-hub-pin-1807409.jpg"
-    },
-    {
       "title": "Banzo Bolt",
       "largeImage": "img/banzo-bolt-1807407.jpg",
       "smallImage": "img/banzo-bolt-1807407.jpg"
@@ -33,19 +28,14 @@
       "smallImage": "img/engine_stud.png"
     },
     {
-      "title": "Hydraulic Nut",
-      "largeImage": "img/hydraulic-nut-1807511.jpg",
-      "smallImage": "img/hydraulic-nut-1807511.jpg"
+      "title": "Oil Ring",
+      "largeImage": "img/oil_ring.png",
+      "smallImage": "img/oil_ring.png"
     },
     {
       "title": "Hydraulic Nipple",
       "largeImage": "img/hydraulik-nipple-1807403-removebg-preview.png",
       "smallImage": "img/hydraulik-nipple-1807403-removebg-preview.png"
-    },
-    {
-      "title": "Bearing",
-      "largeImage": "img/nonferrous-bearing-1807425.jpg",
-      "smallImage": "img/nonferrous-bearing-1807425.jpg"
     },
     {
       "title": "Manifold",
@@ -145,7 +135,7 @@
     }
   ],
   "Contact": {
-    "address": "New Nehrunagar 9 Corner, Near Patel Pan, 80 Feet Road, Kothariya Main Road, Rajkot, Gujarat, India",
+    "address": "9-New Nehrunagar Dhebar Road South Atika industrial area Near Ahir chowk Rajkot, Gujarat India Pin;-360003",
     "phone": "+91 9879911286",
     "email": "kismatautoind@gmail.com"
   },
