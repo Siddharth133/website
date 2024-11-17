@@ -16,36 +16,36 @@ export const Contact = (props) => {
   };
   const clearState = () => setState({ ...initialState });
   
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    
-    const subject = `Contact Form Submission from ${name}`;
-    const body = `Name: ${name}%0D%0AEmail: ${email}%0D%0AMessage: ${message}`;
-    const mailtoLink = `mailto:your-email@example.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   
-    window.location.href = mailtoLink;
+    const payload = {
+      name,
+      email,
+      message,
+    };
   
-    clearState();
+    try {
+      const response = await fetch("https://website-hyjfzmixi-sids-projects-4ed970d3.vercel.app/send_email", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+      });
+  
+      if (response.ok) {
+        alert("Email sent successfully!");
+        clearState();
+      } else {
+        alert("Failed to send email. Please try again.");
+      }
+    } catch (error) {
+      console.error("Error:", error);
+      alert("An error occurred. Please try again later.");
+    }
   };
     
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-  //   console.log(name, email, message);
-    
-  //   {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
-  //   emailjs
-  //     .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
-  //     .then(
-  //       (result) => {
-  //         console.log(result.text);
-  //         clearState();
-  //       },
-  //       (error) => {
-  //         console.log(error.text);
-  //       }
-  //     );
-  // };
   return (
     <div>
       <div id="contact">
