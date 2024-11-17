@@ -46,6 +46,11 @@
       "title": "Cylinder Head Cover",
       "largeImage": "img/Cylinder_head_cover.png",
       "smallImage": "img/Cylinder_head_cover.png"
+    },
+    {
+      "title": "Oil Pump",
+      "largeImage": "img/oil_pump.png",
+      "smallImage": "img/oil_pump.png"
     }
   ],
   "Services": [
