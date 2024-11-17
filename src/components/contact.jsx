@@ -26,7 +26,7 @@ export const Contact = (props) => {
     };
   
     try {
-      const response = await fetch("https://website-oj8f99d76-sids-projects-4ed970d3.vercel.app/send_email", {
+      const response = await fetch("https://website-oj8f99d76-sids-projects-4ed970d3.vercel.app/send-email", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
